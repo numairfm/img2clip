@@ -1,0 +1,9 @@
+{
+  "uuid": "img2clip@numair",
+  "name": "Image Clipboard Toggle",
+  "description": "Toggle the Nautilus 'Copy Image to Clipboard' extension.",
+  "version": 1,
+  "shell-version": ["48.0"],
+  "settings-schema": "org.gnome.shell.extensions.img2clip"
+}
+

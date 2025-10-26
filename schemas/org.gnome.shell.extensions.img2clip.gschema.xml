@@ -1,0 +1,10 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.img2clip" path="/org/gnome/shell/extensions/img2clip/">
+    <key name="enabled" type="b">
+      <default>true</default>
+      <summary>Enable Nautilus Copy Image extension</summary>
+      <description>If true, activates the Nautilus Python extension.</description>
+    </key>
+  </schema>
+</schemalist>
+
