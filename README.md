@@ -7,10 +7,10 @@ requires nautilus-python package
 `sudo apt install python3-nautilus`
 
 clone repo
-`git clone https://github.com/numairfm/gnome-extension-img2clip.git`
+`git clone https://github.com/numairfm/img2clip.git`
 
 pack it
-`gnome-extensions pack --force img2clip@numair`
+`gnome-extensions pack --force img2clip`
 
 install it
 `gnome-extensions install --force img2clip@numair.shell-extension.zip`
